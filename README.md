@@ -16,7 +16,7 @@ This project implements the Lucas-Kanade optical flow algorithm in Python withou
 - Matplotlib (optional)
 
 ## Example Output
-![example](examples/flow_color_mapping.png)
+" (examples/flow_color_mapping.png) "
 
 ## Run
 ```bash
